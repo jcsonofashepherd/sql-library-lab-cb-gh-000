@@ -1,1 +1,1 @@
-"UPDATE species FROM characters WHERE id = (SELECT MAX(id) FROM characters);""
+"UPDATE species FROM characters WHERE id = (SELECT MAX(id) FROM characters);"
